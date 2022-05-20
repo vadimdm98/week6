@@ -1,0 +1,16 @@
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\bin\Debug\net5.0\DiceGameThreeThrowsForLoop.exe
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\bin\Debug\net5.0\DiceGameThreeThrowsForLoop.deps.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\bin\Debug\net5.0\DiceGameThreeThrowsForLoop.runtimeconfig.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\bin\Debug\net5.0\DiceGameThreeThrowsForLoop.runtimeconfig.dev.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\bin\Debug\net5.0\DiceGameThreeThrowsForLoop.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\bin\Debug\net5.0\ref\DiceGameThreeThrowsForLoop.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\bin\Debug\net5.0\DiceGameThreeThrowsForLoop.pdb
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\obj\Debug\net5.0\DiceGameThreeThrowsForLoop.csproj.AssemblyReference.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\obj\Debug\net5.0\DiceGameThreeThrowsForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\obj\Debug\net5.0\DiceGameThreeThrowsForLoop.AssemblyInfoInputs.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\obj\Debug\net5.0\DiceGameThreeThrowsForLoop.AssemblyInfo.cs
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\obj\Debug\net5.0\DiceGameThreeThrowsForLoop.csproj.CoreCompileInputs.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\obj\Debug\net5.0\DiceGameThreeThrowsForLoop.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\obj\Debug\net5.0\ref\DiceGameThreeThrowsForLoop.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\obj\Debug\net5.0\DiceGameThreeThrowsForLoop.pdb
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGameThreeThrowsForLoop\obj\Debug\net5.0\DiceGameThreeThrowsForLoop.genruntimeconfig.cache

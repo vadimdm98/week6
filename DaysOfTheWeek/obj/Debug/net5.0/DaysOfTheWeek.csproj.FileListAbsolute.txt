@@ -1,0 +1,16 @@
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.exe
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.deps.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.runtimeconfig.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.runtimeconfig.dev.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\bin\Debug\net5.0\ref\DaysOfTheWeek.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.pdb
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.AssemblyInfo.cs
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\obj\Debug\net5.0\ref\DaysOfTheWeek.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.pdb
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.genruntimeconfig.cache

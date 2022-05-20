@@ -1,0 +1,16 @@
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\bin\Debug\net5.0\DiceGame.exe
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\bin\Debug\net5.0\DiceGame.deps.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.dev.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\bin\Debug\net5.0\DiceGame.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\bin\Debug\net5.0\ref\DiceGame.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\bin\Debug\net5.0\DiceGame.pdb
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\obj\Debug\net5.0\DiceGame.csproj.AssemblyReference.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\obj\Debug\net5.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfo.cs
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\obj\Debug\net5.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\obj\Debug\net5.0\DiceGame.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\obj\Debug\net5.0\ref\DiceGame.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\obj\Debug\net5.0\DiceGame.pdb
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\DiceGame\obj\Debug\net5.0\DiceGame.genruntimeconfig.cache

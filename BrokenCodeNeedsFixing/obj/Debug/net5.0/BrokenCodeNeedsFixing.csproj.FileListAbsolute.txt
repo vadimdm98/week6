@@ -1,0 +1,15 @@
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\bin\Debug\net5.0\BrokenCodeNeedsFixing.exe
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\bin\Debug\net5.0\BrokenCodeNeedsFixing.deps.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\bin\Debug\net5.0\BrokenCodeNeedsFixing.runtimeconfig.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\bin\Debug\net5.0\BrokenCodeNeedsFixing.runtimeconfig.dev.json
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\bin\Debug\net5.0\BrokenCodeNeedsFixing.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\bin\Debug\net5.0\ref\BrokenCodeNeedsFixing.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\bin\Debug\net5.0\BrokenCodeNeedsFixing.pdb
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\obj\Debug\net5.0\BrokenCodeNeedsFixing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\obj\Debug\net5.0\BrokenCodeNeedsFixing.AssemblyInfoInputs.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\obj\Debug\net5.0\BrokenCodeNeedsFixing.AssemblyInfo.cs
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\obj\Debug\net5.0\BrokenCodeNeedsFixing.csproj.CoreCompileInputs.cache
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\obj\Debug\net5.0\BrokenCodeNeedsFixing.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\obj\Debug\net5.0\ref\BrokenCodeNeedsFixing.dll
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\obj\Debug\net5.0\BrokenCodeNeedsFixing.pdb
+C:\Users\37255\source\repos\Week6-BrokenCodeNeedsFixing\BrokenCodeNeedsFixing\obj\Debug\net5.0\BrokenCodeNeedsFixing.genruntimeconfig.cache
